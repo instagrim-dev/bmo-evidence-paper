@@ -4,6 +4,8 @@ Reproducible completion contract, conventional-cache comparison, public trajecto
 
 ## Release v0.1.0
 
+Public archival record: [Zenodo version 0.1.0](https://doi.org/10.5281/zenodo.24002905). The [GitHub release](https://github.com/instagrim-dev/bmo-evidence-paper/releases/tag/v0.1.0) and Zenodo contain the same research ZIP. Anonymous downloads from both hosts were checked against the SHA-256 below.
+
 The complete source and retained results are distributed in the release archive `bmo-evidence-paper-v0.1.0.zip`. This repository is its release landing page. Extract the archive and run the top-level reproduction command from the extracted directory:
 
 ```sh
