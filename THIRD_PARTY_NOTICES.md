@@ -1,0 +1,11 @@
+# Third-party sources and scope — v0.1.0
+
+The approved Apache-2.0 grant applies to the original material identified in `LICENSE_SCOPE.md`. This notice preserves attribution and third-party exclusions; it does not relicense external material. The nested reference notice retains its historical draft wording, while the root scope governs the covered original material in this release.
+
+The historical public trajectory inputs and relevant software/source-license evidence are documented in `reference_v2/THIRD_PARTY_NOTICES.md`. Those 19 raw inputs are fetched from their original hosts; they are not mirrored. The MIT licenses of SWE-agent and SWE-bench software are not asserted to license entire separate S3 execution records. Known Requests source portions have their own terms. The curated reference excludes raw object listings and excerpt-bearing supplements.
+
+The new cache comparator and synthetic acquisition programs, fixtures, and reports are original standalone research material prepared for this study. No production BMO/Workbench source, third-party package implementation, model weights, or downloaded notebook code is bundled. The programs use Python's standard library; the interpreter is separately supplied. The supplied synthetic prediction model and oracle are not external benchmark records.
+
+`practical/` contains original prospective design and readiness records plus factual source identities. Original Kaggle/Hugging Face HTML, notebook, configuration/template bytes, and API-response captures under the research workspace's `practical/sources/` are excluded. `practical/SOURCES.json`, `model_binding.json`, and `research_record.md` retain hashes, original URLs, and the limits of the observations. Historical `downloaded` flags describe the research workspace, not bundled file availability. No license for Gemma or provider material is granted or accepted by this artifact.
+
+Counts, identifiers, and original annotations do not transfer ownership of their external subjects. Any future addition of raw source records or excerpts requires applicable rights evidence and retained notices. The scoped grant and this exact distribution were approved on 6 November 2026; future additions are not included in that approval.
